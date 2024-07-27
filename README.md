@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-# 1 Introduction
+### Introduction
 
 In today's data-driven world, businesses can enhance efficiency and profitability by leveraging their data to increase revenue and reduce customer churn. This notebook aims to conduct an in-depth analysis of data from a telecommunications company that provides home phone and internet services to 7,043 customers in California. Our goal is to uncover key insights into customer subscription behavior and churn.
 
@@ -65,7 +65,7 @@ The data for this project will be sourced from the telco companies database and 
 
 
 ### GitHub Project Repository :
-* [ShopSmart Data Analysis](https://github.com/SaliuA/telco_Customer_churn)
+* [Cutomer churn prediction](https://github.com/SaliuA/Customer_churn_prediction)
 
 This project also serves as the project of the month for the Data Community Africa.
 * [Data Community Africa](https://www.datacommunityafrica.org//)
