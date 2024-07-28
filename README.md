@@ -1,6 +1,6 @@
 # Telco Customer Churn Analysis
 
-### Introduction
+# 1 Introduction
 
 In today's data-driven world, businesses can enhance efficiency and profitability by leveraging their data to increase revenue and reduce customer churn. This notebook aims to conduct an in-depth analysis of data from a telecommunications company that provides home phone and internet services to 7,043 customers in California. Our goal is to uncover key insights into customer subscription behavior and churn.
 
@@ -72,7 +72,8 @@ This project also serves as the project of the month for the Data Community Afri
 
 ### Summary :
 
-Random Forest model obtained a Recall score of 0.83, demonstrating its effectiveness in predicting Customers who would churn. The AUC-ROC score is 0.82, this indicates that the model possess a good level of separability, which means it is adept at distinguishing between churned and non-churned customers, significantly surpassing the threshold of random chance. The base logistic model had a score of 0.59 and 0.72 respectively for recall and AUC-ROC.
+The random forest model as an accuracy score of 0.85.The model does well at correctly predicting churned customers with a recall score of 0.87
+The models AUC is 0.94 signifying the model is doing well at predicting and not just random guessing.
 
 ### Built With
 
